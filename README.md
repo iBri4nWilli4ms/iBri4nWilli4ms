@@ -1,17 +1,30 @@
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iBri4nWilli4ms.iBri4nWilli4ms"/> -->
+
+<div align="right" style="margin-top: 0;">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=iBri4nWilli4ms.iBri4nWilli4ms" target="_blank" style="text-decoration: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=iBri4nWilli4ms.iBri4nWilli4ms&left_color=#5E81AC&right_color=#88C0D0&left_text=Visitas" 
+         alt="Contador de visitas" 
+         style="border-radius: 4px; box-shadow: 0px 1px 2px rgba(94, 129, 172, 0.69);" />
+  </a>
+</div>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=1500&letterSpacing=2&pause=800&color=88C0D0&center=true&vCenter=true&width=500&lines=I'm+iBri4nWilli4ms;Hi+There!+%F0%9F%91%8B" alt="Typing Animation" />
 
+<br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Julius+Sans+One&weight=400&size=30&duration=1500&pause=800&color=000000&center=true&repeat=false&vCenter=true&multiline=true&width=1200&lines=Apasionado por la tecnología y el desarrollo de software." alt="Typing Animation" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Julius+Sans+One&weight=400&size=30&duration=1500&pause=800&color=000000&center=true&repeat=false&vCenter=true&multiline=true&width=1200&lines=Apasionado+por+la+tecnología+y+el+desarrollo+de+software." alt="Typing Animation" />
 
 
 <!-- # ¡Hola, soy iBri4nWilli4ms! 👋   -->
 
-<div align="justify">
+<!-- <div align="justify"> -->
 🔍 Actualmente, estoy buscando **nuevas oportunidades** en desarrollo y tecnología para aportar mis conocimientos y seguir creciendo profesionalmente.  
 
 🌱 Estoy aprendiendo y mejorando en **Docker, Flutter e Inglés** para fortalecer mis habilidades y adaptarme a los desafíos actuales de la industria.
-</div>
+<!-- </div> -->
 <a href="mailto:bri4nwilli4ms@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
@@ -24,9 +37,9 @@
 
 ## 📈 Estadísticas de GitHub
 
-  <img src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBri4nWilli4ms&layout=compact&theme=nord" alt="Lenguajes más usados" width="48%">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats" width="90%">
+  <img width=30% src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub" width="48%">
+  <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBri4nWilli4ms&layout=compact&theme=nord" alt="Lenguajes más usados" width="48%">
+  <img width=30% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats">
 
 ## 🛠️ Tecnologías y Herramientas 🛠️
 
