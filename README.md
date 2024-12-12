@@ -1,43 +1,55 @@
 ## Hi there 👋
 
+# ¡Hola, soy iBri4nWilli4ms! 👋
 
-# ¡Hola, soy [Tu Nombre]! 👋
+A passionate software developer from Canada
 
-Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me encanta explorar nuevas tecnologías y compartir mi conocimiento con la comunidad. Aquí tienes un vistazo a lo que hago:
 
 ## 🚀 Sobre Mí
-- 📍 Ubicación: Tarija, Bolivia
-- 💼 Trabajo en: [Nombre de tu empresa o proyecto]
-- 🌱 Actualmente estoy aprendiendo: [Tecnología o habilidad que estás aprendiendo]
-- 💬 Pregúntame sobre: [Temas sobre los que puedes ayudar]
-- ⚡ Datos curiosos: [Algo interesante sobre ti]
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace** que pongo si no tengo trabajo por el momento lo quito este campo?
+ 
+ 🌱 I’m currently learning **Docker, FLuter, Ingles**
+
 
 ## 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
-## 🔧 Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBri4nWilli4ms&layout=compact&theme=nord" alt="Lenguajes más usados">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats">
+</div>
+
+
+## 🛠️ **Tecnologías y Herramientas**  🛠️
+
+
+<div align="center">
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" alt="Golang"></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"></a>
+</div>
+
 
 ## 🛠 Proyectos Recientes
-- 🔗 [Proyecto 1](https://github.com/tu-usuario/proyecto1) - Descripción breve del proyecto.
-- 🔗 [Proyecto 2](https://github.com/tu-usuario/proyecto2) - Descripción breve del proyecto.
-- 🔗 [Proyecto 3](https://github.com/tu-usuario/proyecto3) - Descripción breve del proyecto.
+### 🛒 **Ecommerce Platform**  
+🚀 _Plataforma completa para compras y ventas en linea_:  
+- **Descripción:** Incluye carrito de compras, generación de reportes PDF y gestión avanzada de inventarios.  
+- **Tecnologías:** [![Golang](https://img.shields.io/badge/-blue?logo=go&logoColor=white)](https://golang.org/) [![Angular](https://img.shields.io/badge/-red?logo=angular&logoColor=white)](https://angular.io/) [![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- **Repositorio:** [Enlace al proyecto](https://github.com/tu_usuario/VENTO)
+
 
 ## 🌐 Encuéntrame en:
-- [Twitter](https://twitter.com/tu-usuario) 🐦
-- [LinkedIn](https://linkedin.com/in/tu-usuario) 💼
-- [Blog Personal](https://tu-blog.com) ✍️
-
-## 📫 Cómo contactarme:
-- Email: [tu-email@example.com]
 
 ---
 
-_"El aprendizaje nunca se detiene, siempre hay algo nuevo que descubrir."_ 🚀
+_"El aprendizaje nunca se detiene, siempre hay algo nuevo que descubrir."_
 
 <!--
 **iBri4nWilli4ms/iBri4nWilli4ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
