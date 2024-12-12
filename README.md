@@ -2,16 +2,14 @@
 
 # ¡Hola, soy iBri4nWilli4ms! 👋
 
-A passionate software developer from Canada
-
+🌍 Apasionado por la tecnología y el desarrollo de software.
 
 ## 🚀 Sobre Mí
 <div align="center">
+  
+🔍 Actualmente, estoy buscando **nuevas oportunidades** en desarrollo y tecnología para aportar mis conocimientos y seguir creciendo profesionalmente.
  
- 🔭 I’m currently working on **a marketplace** que pongo si no tengo trabajo por el momento lo quito este campo?
- 
- 🌱 I’m currently learning **Docker, FLuter, Ingles**
-
+🌱 Estoy aprendiendo y mejorando en **Docker, Flutter e Inglés** para fortalecer mis habilidades y adaptarme a los desafíos actuales de la industria.
 
 ## 📈 Estadísticas de GitHub
 
