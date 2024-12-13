@@ -5,7 +5,7 @@
 
 <div align="right" style="margin-top: 0;">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=iBri4nWilli4ms.iBri4nWilli4ms&left_text=Visitas" alt="Contador de visitas" 
-         style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(94, 129, 172, 0.6);"/>
+         style="border-radius: 4px; box-shadow: 0px 1px 2px rgba(94, 129, 172, 0.6);"/>
 </div>
 
 <!-- Encabezado -->
@@ -33,9 +33,8 @@
 
 ---
 
-<!-- ## 📈 Estadísticas de GitHub -->
-
-<h2>📈 Estadísticas de GitHub</h2>
+## 📈 Estadísticas de GitHub
+------------------------------
 
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats">
   <img src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub" width="48%">
