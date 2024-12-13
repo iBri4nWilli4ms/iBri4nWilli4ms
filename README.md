@@ -57,7 +57,6 @@
 
 ## Proyectos Recientes 🚀
 
-</div>
 
 ### 🛒 **Ecommerce Platform**
 **_Transformando la experiencia de compraventa en línea._**
