@@ -33,8 +33,9 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+<!-- ## 📈 Estadísticas de GitHub -->
 
+<h2>📈 Estadísticas de GitHub</h2>
 
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats">
   <img src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub" width="48%">
