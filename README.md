@@ -35,11 +35,11 @@
 
 ## 📈 Estadísticas de GitHub
 
-<div align="center">
+
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10" alt="Streak stats">
   <img src="https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord" alt="Estadísticas de GitHub" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBri4nWilli4ms&layout=compact&theme=nord" alt="Lenguajes más usados" width="48%">
-</div>
+
 
 ---
 
@@ -54,6 +54,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" /></a>
+
 </div>
 
 ---
@@ -71,8 +72,7 @@
   - Uso exclusivo de pagos QR.
 - **Tecnologías utilizadas:**  
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,angular,postgresql" alt="Tecnologías utilizadas" />
-  </div>
+    <img src="https://skillicons.dev/icons?i=go,angular,postgresql" alt="Tecnologías utilizadas"/></div>
 - **Repositorio:** [Vento - Ecommerce Platform](https://github.com/iBri4nwilli4ms/VENTO)
 
 ---
