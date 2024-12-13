@@ -19,7 +19,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈Estadísticas  de Github
 
 ![Streak stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=iBri4nWilli4ms&count_private=true&theme=nord&border_radius=10)  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=iBri4nWilli4ms&show_icons=true&theme=nord)  
@@ -27,18 +27,21 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas 🛠️
+## 🛠️Tecnologías & Herramientas🛠️
+
 
 [![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)  
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)  
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)  
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
----
+
+
+## Proyectos Recientes
 
 ## Proyectos Recientes 🚀
 
